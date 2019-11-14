@@ -20,4 +20,40 @@
 	
 }
 
+.nav > li {
+float:left;
+position:relative;
+left:360px;
+top:15px;
 
+}
+
+.nav li a {
+    background:Black;
+    color:White;
+    display:block;
+    border:0px solid;
+    padding:25px 75px;
+    font-size:20px;
+
+}
+.nav li a:hover {
+    background:blue;
+}
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:300px;
+
+}
+.nav li:hover > ul {
+    display:block;
+}
+.nav li ul li{
+position:relative;
+}
+.nav li ul li ul {
+    right:-140px;
+    top:0;
+    left:100%;
+}
