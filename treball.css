@@ -2,19 +2,18 @@
 	margin:auto;
 }
 
-h1{
+.titulo{
 
 font-size: 2rem;
 line-height: 1.3em;
-
+color: white;
 }
 
 
-#cabecera{
+#header{
 	width: 100%;
 	margin:0 auto;
-	background: #333;
-	color: white;
+	background: yellow;
 }
 
 #menu{
