@@ -3,7 +3,9 @@
 }
 
 #cabecera{
-	text-align:center;
+	width: 100%;
+	background-yellow;
+	height: 70px;
 }
 
 #menu{
