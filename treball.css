@@ -4,8 +4,9 @@
 
 #cabecera{
 	width: 100%;
-	background:yellow;
-	height: 70px;
+	margin:0 auto;
+	background: #333;
+	color: white;
 }
 
 #menu{
